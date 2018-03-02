@@ -1,3 +1,12 @@
+/*========================================================================
+
+	Project 	: 1D diffusion solver.
+	Language 	: C
+	Function 	: 1D diffusion solver using the finite volume method. 
+	Writted by 	: Steven Taggart, 02/03/2018.		   
+
+=========================================================================*/	
+
 #include <stdio.h>
 #include <stdlib.h>
 
